@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about UVR 5 and its ability to separate typical stems.
 - 💞️ I’m looking to collaborate on any UVR processing models that deal with non-musical content.
 - 📫 Please reach me here first if possible... 'still learning the layout here!
-- 😄 Pronouns: He/She/It
+- 😄 Pronouns: The/She/It
 - ⚡ Fun fact: It takes a big dog to weight a ton.
 
 <!---
